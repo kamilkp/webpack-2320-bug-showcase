@@ -1,0 +1,21 @@
+{
+  "name": "webpack-2320-bug-showcase",
+  "version": "0.0.0",
+  "description": "Minimal project to showcase https://github.com/webpack/webpack/issues/2320",
+  "author": {
+    "name": "Kamil Pekala",
+    "email": "kamilkp@gmail.com",
+    "url": "http://github.com/kamilkp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamilkp/webpack-2320-bug-showcase.git"
+  },
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.8.5",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.12.15"
+  }
+}

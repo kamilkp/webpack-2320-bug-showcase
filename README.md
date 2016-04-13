@@ -1,0 +1,1 @@
+Minimal project to showcase https://github.com/webpack/webpack/issues/2320
